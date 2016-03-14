@@ -11,9 +11,9 @@ The resource class is an abstract class that makes RESTful resource links availa
 	"id": 5,
     "title": "RESTful Web Services",
 	"_links": {
- 		"self": "http://domain.com/books/2",
-        "chapter1": "http://domain.com/books/2/chapters/1",
-        "chapter2": "http://domain.com/books/2/chapters/2",
+ 		"self": "http://domain.com/books/5",
+        "chapter1": "http://domain.com/books/5/chapters/1",
+        "chapter2": "http://domain.com/books/5/chapters/2",
     }
 }
 ```
